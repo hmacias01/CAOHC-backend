@@ -4,9 +4,9 @@
     "description": "Audiometria Backend",
     "main": "index.js",
     "scripts": {
-        "start": "nodemon app.js",
+        "start": "node app.js",
         "test": "echo \"Error: no test specified\" && exit 1",
-        "dev": "nodemon src/app.js"
+        "dev": "node src/app.js"
     },
     "author": "",
     "license": "ISC",
